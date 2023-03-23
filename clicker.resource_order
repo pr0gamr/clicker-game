@@ -1,0 +1,28 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
+    {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
+    {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
+    {"name":"Notes","order":13,"path":"folders/Notes.yy",},
+    {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"Paths","order":4,"path":"folders/Paths.yy",},
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
+    {"name":"Sequences","order":11,"path":"folders/Sequences.yy",},
+    {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
+    {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
+    {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"obj_clicker2","order":3,"path":"objects/obj_clicker2/obj_clicker2.yy",},
+    {"name":"obj_clicker6","order":7,"path":"objects/obj_clicker6/obj_clicker6.yy",},
+    {"name":"spr_clicker","order":1,"path":"sprites/spr_clicker/spr_clicker.yy",},
+    {"name":"obj_clicker4","order":5,"path":"objects/obj_clicker4/obj_clicker4.yy",},
+    {"name":"obj_clicker1","order":2,"path":"objects/obj_clicker1/obj_clicker1.yy",},
+    {"name":"obj_clicker5","order":6,"path":"objects/obj_clicker5/obj_clicker5.yy",},
+    {"name":"obj_click_area","order":1,"path":"objects/obj_click_area/obj_click_area.yy",},
+    {"name":"obj_clicker3","order":4,"path":"objects/obj_clicker3/obj_clicker3.yy",},
+  ],
+}

@@ -1,7 +1,7 @@
-if (score >= 10)
+if (score >= 5000)
 {
-	score -= 10
-	obj_game.cps += 1
+	score -= 5000
+	obj_game.cps += 250
 }
 
 
