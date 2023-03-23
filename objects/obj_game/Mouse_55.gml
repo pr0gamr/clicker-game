@@ -1,9 +1,9 @@
-if(score <= -1)
+if(score <= -20)
 {
-	cps -= score/20
+	cps -= round(score/20)
 }
-if(score >= 1)
+if(score >= 20)
 {
-	cps += score/20
+	cps += round(score/20)
 }
 score = 0

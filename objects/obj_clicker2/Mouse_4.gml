@@ -1,7 +1,8 @@
-if (score >= 50)
+if (score >= price)
 {
-	score -= 50
+	score -= price
 	obj_game.cps += 5
+	price += 5
 }
 
 
